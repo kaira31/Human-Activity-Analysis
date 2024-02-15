@@ -1,6 +1,4 @@
 # Human-Activity-Analysis
-# Project Overview:
-This project focused on monitoring human activity using accelerometer data. By applying Natural Visibility Graph and Horizontal Visibility Graph methods to transform time series data from 15 subjects, we aimed to analyze various human activities and their patterns.
 
 # Project Overview:
 This project focused on monitoring human activity using accelerometer data. By applying Natural Visibility Graph and Horizontal Visibility Graph methods to transform time series data from 15 subjects, we aimed to analyze various human activities and their patterns.
